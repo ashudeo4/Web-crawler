@@ -81,7 +81,7 @@ async function extractcrawlUrls(html, url, baseUrl) {
     });
     crawledUrls.add(url);
     if (Array.from(productUrls).length > 0 ) {
-    await saveToJsonFile(productUrls, url)
+        await saveToJsonFile(productUrls, url)
     }
     logMessage(`File saved for url: ${url}`)
 }
