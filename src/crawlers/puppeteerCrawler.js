@@ -11,8 +11,8 @@ const DISTANCE_SCROLL = parseInt(process.env.DISTANCE_SCROLL);
 const AUTO_SCROLL_TIMEOUT = parseInt(process.env.AUTO_SCROLL_TIMEOUT);
 let activeCrawls = 0
 
-async function crawlWithPuppeteer(domain, baseUrl) {
-    nextCrawlQueue.push({ url: domain, baseUrl: baseUrl })
+async function crawlWithPuppeteer(url, baseUrl) {
+    nextCrawlQueue.push({ url: url, baseUrl: baseUrl })
     processQueue()
 }
 
@@ -58,10 +58,10 @@ async function fetchWithPuppeteer(url, baseUrl) {
     }
 }
 
-async function extractcrawlUrls(html, domain, baseUrl) {
+async function extractcrawlUrls(html, url, baseUrl) {
     productUrls = new Set()
 
-    logMessage(`Crawling (Puppeteer): ${domain}`);
+    logMessage(`Crawling (Puppeteer): ${url}`);
 
     const $ = cheerio.load(html);
     $("a").each((_, element) => {
@@ -79,11 +79,11 @@ async function extractcrawlUrls(html, domain, baseUrl) {
             nextCrawlQueue.push({ url: href, baseUrl })
         }
     });
-    crawledUrls.add(domain);
+    crawledUrls.add(url);
     if (Array.from(productUrls).length > 0 ) {
-    await saveToJsonFile(productUrls, domain)
+    await saveToJsonFile(productUrls, url)
     }
-    logMessage(`File saved for url: ${domain}`)
+    logMessage(`File saved for url: ${url}`)
 }
 
 async function autoScroll(page, DISTANCE_SCROLL, AUTO_SCROLL_TIMEOUT) {

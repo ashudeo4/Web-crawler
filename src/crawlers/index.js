@@ -1,6 +1,6 @@
 import { crawlWithPuppeteer } from "./puppeteerCrawler.js";
-async function crawlWebsite(domain) {
-    await crawlWithPuppeteer(domain, domain);
+async function crawlWebsite(url) {
+    await crawlWithPuppeteer(url, url);
 }
 
 export default crawlWebsite;

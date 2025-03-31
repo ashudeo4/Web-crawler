@@ -1,0 +1,134 @@
+[2025-03-31T20:41:03.673Z] Crawling (Puppeteer): https://www.virgio.com
+[2025-03-31T20:41:03.704Z] File saved for url: https://www.virgio.com
+[2025-03-31T20:42:13.539Z] Crawling (Puppeteer): https://www.virgio.com/collections/all
+[2025-03-31T20:42:13.598Z] File saved for url: https://www.virgio.com/collections/all
+[2025-03-31T20:42:58.954Z] Crawling (Puppeteer): https://www.virgio.com/collections/dresses-date
+[2025-03-31T20:42:58.999Z] File saved for url: https://www.virgio.com/collections/dresses-date
+[2025-03-31T20:43:13.789Z] Crawling (Puppeteer): https://www.virgio.com/collections/co-ords-date
+[2025-03-31T20:43:13.817Z] File saved for url: https://www.virgio.com/collections/co-ords-date
+[2025-03-31T20:43:39.195Z] Crawling (Puppeteer): https://www.virgio.com/collections/veronicas-trouser
+[2025-03-31T20:43:39.221Z] File saved for url: https://www.virgio.com/collections/veronicas-trouser
+[2025-03-31T20:43:55.236Z] Crawling (Puppeteer): https://www.virgio.com/collections/natural-shirts-for-women
+[2025-03-31T20:43:55.262Z] File saved for url: https://www.virgio.com/collections/natural-shirts-for-women
+[2025-03-31T20:44:04.020Z] Crawling (Puppeteer): https://www.virgio.com/collections/jumpsuits
+[2025-03-31T20:44:04.026Z] File saved for url: https://www.virgio.com/collections/jumpsuits
+[2025-03-31T20:44:44.866Z] Crawling (Puppeteer): https://www.virgio.com/collections/top-wear-date
+[2025-03-31T20:44:44.892Z] File saved for url: https://www.virgio.com/collections/top-wear-date
+[2025-03-31T20:45:00.311Z] Crawling (Puppeteer): https://www.virgio.com/collections/virgio-x-iifa
+[2025-03-31T20:45:00.333Z] File saved for url: https://www.virgio.com/collections/virgio-x-iifa
+[2025-03-31T20:45:00.333Z] Crawling (Puppeteer): https://www.virgio.com/collections/virgio-x-iifa
+[2025-03-31T20:45:00.333Z] Error processing https://www.virgio.com/collections/virgio-x-iifa: cheerio.load() expects a string
+[2025-03-31T20:45:49.040Z] Crawling (Puppeteer): https://www.virgio.com/collections/discount-delights
+[2025-03-31T20:45:49.079Z] File saved for url: https://www.virgio.com/collections/discount-delights
+[2025-03-31T20:45:49.079Z] Crawling (Puppeteer): https://www.virgio.com/collections/discount-delights
+[2025-03-31T20:45:49.079Z] Error processing https://www.virgio.com/collections/discount-delights: cheerio.load() expects a string
+[2025-03-31T20:45:49.079Z] Crawling (Puppeteer): https://www.virgio.com/collections/all
+[2025-03-31T20:45:49.079Z] Error processing https://www.virgio.com/collections/all: cheerio.load() expects a string
+[2025-03-31T20:45:49.079Z] Crawling (Puppeteer): https://www.virgio.com/collections/all
+[2025-03-31T20:45:49.079Z] Error processing https://www.virgio.com/collections/all: cheerio.load() expects a string
+[2025-03-31T20:45:49.079Z] Crawling (Puppeteer): https://www.virgio.com/collections/all
+[2025-03-31T20:45:49.079Z] Error processing https://www.virgio.com/collections/all: cheerio.load() expects a string
+[2025-03-31T20:46:06.556Z] Crawling (Puppeteer): https://www.virgio.com/pages/terms-and-conditions
+[2025-03-31T20:46:06.572Z] File saved for url: https://www.virgio.com/pages/terms-and-conditions
+[2025-03-31T20:46:06.572Z] Crawling (Puppeteer): https://www.virgio.com/collections/dresses-date
+[2025-03-31T20:46:06.572Z] Error processing https://www.virgio.com/collections/dresses-date: cheerio.load() expects a string
+[2025-03-31T20:46:43.515Z] Crawling (Puppeteer): https://www.virgio.com/collections/cotton
+[2025-03-31T20:46:43.544Z] File saved for url: https://www.virgio.com/collections/cotton
+[2025-03-31T20:46:43.544Z] Crawling (Puppeteer): https://www.virgio.com/collections/co-ords-date
+[2025-03-31T20:46:43.545Z] Error processing https://www.virgio.com/collections/co-ords-date: cheerio.load() expects a string
+[2025-03-31T20:46:53.486Z] Crawling (Puppeteer): https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+[2025-03-31T20:46:53.500Z] File saved for url: https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+[2025-03-31T20:47:03.831Z] Crawling (Puppeteer): https://www.virgio.com/products/date-chic-red-solid-co-ords
+[2025-03-31T20:47:03.841Z] File saved for url: https://www.virgio.com/products/date-chic-red-solid-co-ords
+[2025-03-31T20:47:09.560Z] Crawling (Puppeteer): https://www.virgio.com/collections/bottomwear-date
+[2025-03-31T20:47:09.562Z] File saved for url: https://www.virgio.com/collections/bottomwear-date
+[2025-03-31T20:47:20.298Z] Crawling (Puppeteer): https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+[2025-03-31T20:47:20.303Z] File saved for url: https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+[2025-03-31T20:47:29.648Z] Crawling (Puppeteer): https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+[2025-03-31T20:47:29.651Z] File saved for url: https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+[2025-03-31T20:47:39.269Z] Crawling (Puppeteer): https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+[2025-03-31T20:47:39.273Z] File saved for url: https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+[2025-03-31T20:47:39.273Z] Crawling (Puppeteer): https://www.virgio.com/collections/all
+[2025-03-31T20:47:39.273Z] Error processing https://www.virgio.com/collections/all: cheerio.load() expects a string
+[2025-03-31T20:47:49.607Z] Crawling (Puppeteer): https://www.virgio.com/products/reworked-shirt-high-low-mandarin-collar-top
+[2025-03-31T20:47:49.610Z] File saved for url: https://www.virgio.com/products/reworked-shirt-high-low-mandarin-collar-top
+[2025-03-31T20:47:59.523Z] Crawling (Puppeteer): https://www.virgio.com/products/temple-flower-eco-printed-asymmetric-waistcoat
+[2025-03-31T20:47:59.527Z] File saved for url: https://www.virgio.com/products/temple-flower-eco-printed-asymmetric-waistcoat
+[2025-03-31T20:48:09.978Z] Crawling (Puppeteer): https://www.virgio.com/products/summer-stripes-asymmetric-wrap-wide-legs
+[2025-03-31T20:48:09.980Z] File saved for url: https://www.virgio.com/products/summer-stripes-asymmetric-wrap-wide-legs
+[2025-03-31T20:48:21.121Z] Crawling (Puppeteer): https://www.virgio.com/products/soft-romance-peter-pan-collar-boxy-shirt
+[2025-03-31T20:48:21.124Z] File saved for url: https://www.virgio.com/products/soft-romance-peter-pan-collar-boxy-shirt
+[2025-03-31T20:48:30.450Z] Crawling (Puppeteer): https://www.virgio.com/products/gothic-boheme-hit2-shoulder-tie-up-dress-with-lace
+[2025-03-31T20:48:30.453Z] File saved for url: https://www.virgio.com/products/gothic-boheme-hit2-shoulder-tie-up-dress-with-lace
+[2025-03-31T20:48:39.768Z] Crawling (Puppeteer): https://www.virgio.com/products/gothic-boheme-hit2-black-embroidered-vest
+[2025-03-31T20:48:39.770Z] File saved for url: https://www.virgio.com/products/gothic-boheme-hit2-black-embroidered-vest
+[2025-03-31T20:48:48.970Z] Crawling (Puppeteer): https://www.virgio.com/products/gothic-boheme-hit2-white-ruffle-midi-skirt
+[2025-03-31T20:48:48.972Z] File saved for url: https://www.virgio.com/products/gothic-boheme-hit2-white-ruffle-midi-skirt
+[2025-03-31T20:48:59.799Z] Crawling (Puppeteer): https://www.virgio.com/products/gothic-boheme-hit2-white-contrast-embroidery-dress
+[2025-03-31T20:48:59.801Z] File saved for url: https://www.virgio.com/products/gothic-boheme-hit2-white-contrast-embroidery-dress
+[2025-03-31T20:49:08.982Z] Crawling (Puppeteer): https://www.virgio.com/products/gothic-boheme-hit2-white-embroidered-vest
+[2025-03-31T20:49:08.985Z] File saved for url: https://www.virgio.com/products/gothic-boheme-hit2-white-embroidered-vest
+[2025-03-31T20:49:18.682Z] Crawling (Puppeteer): https://www.virgio.com/products/gothic-boheme-hit2-white-contrast-embroidery-top
+[2025-03-31T20:49:18.685Z] File saved for url: https://www.virgio.com/products/gothic-boheme-hit2-white-contrast-embroidery-top
+[2025-03-31T20:49:29.237Z] Crawling (Puppeteer): https://www.virgio.com/products/gothic-boheme-hit2-embroidered-top-with-front-tie
+[2025-03-31T20:49:29.240Z] File saved for url: https://www.virgio.com/products/gothic-boheme-hit2-embroidered-top-with-front-tie
+[2025-03-31T20:49:39.071Z] Crawling (Puppeteer): https://www.virgio.com/products/gothic-boheme-hit2-maroon-contrast-embroidery-dress
+[2025-03-31T20:49:39.073Z] File saved for url: https://www.virgio.com/products/gothic-boheme-hit2-maroon-contrast-embroidery-dress
+[2025-03-31T20:49:49.499Z] Crawling (Puppeteer): https://www.virgio.com/products/gothic-boheme-hit2-maroon-ruffle-midi-skirt
+[2025-03-31T20:49:49.502Z] File saved for url: https://www.virgio.com/products/gothic-boheme-hit2-maroon-ruffle-midi-skirt
+[2025-03-31T20:50:00.171Z] Crawling (Puppeteer): https://www.virgio.com/products/gothic-boheme-hit2-black-contrast-embroidery-top
+[2025-03-31T20:50:00.175Z] File saved for url: https://www.virgio.com/products/gothic-boheme-hit2-black-contrast-embroidery-top
+[2025-03-31T20:50:11.569Z] Crawling (Puppeteer): https://www.virgio.com/products/gothic-boheme-hit2-black-lace-detail-shirt
+[2025-03-31T20:50:11.572Z] File saved for url: https://www.virgio.com/products/gothic-boheme-hit2-black-lace-detail-shirt
+[2025-03-31T20:50:20.719Z] Crawling (Puppeteer): https://www.virgio.com/products/gothic-boheme-hit2-shoulder-tie-up-lace-dress
+[2025-03-31T20:50:20.722Z] File saved for url: https://www.virgio.com/products/gothic-boheme-hit2-shoulder-tie-up-lace-dress
+[2025-03-31T20:50:32.351Z] Crawling (Puppeteer): https://www.virgio.com/products/gothic-boheme-hit2-red-lace-detail-shirt
+[2025-03-31T20:50:32.354Z] File saved for url: https://www.virgio.com/products/gothic-boheme-hit2-red-lace-detail-shirt
+[2025-03-31T20:50:42.868Z] Crawling (Puppeteer): https://www.virgio.com/products/gothic-boheme-hit2-front-tie-embroidered-top
+[2025-03-31T20:50:42.871Z] File saved for url: https://www.virgio.com/products/gothic-boheme-hit2-front-tie-embroidered-top
+[2025-03-31T20:50:53.742Z] Crawling (Puppeteer): https://www.virgio.com/products/artisans-aura-jaipur-hand-block-print-elasticated-waist-crop-top
+[2025-03-31T20:50:53.746Z] File saved for url: https://www.virgio.com/products/artisans-aura-jaipur-hand-block-print-elasticated-waist-crop-top
+[2025-03-31T20:51:05.066Z] Crawling (Puppeteer): https://www.virgio.com/products/artisans-aura-jaipur-hand-block-print-crop-top
+[2025-03-31T20:51:05.069Z] File saved for url: https://www.virgio.com/products/artisans-aura-jaipur-hand-block-print-crop-top
+[2025-03-31T20:51:14.005Z] Crawling (Puppeteer): https://www.virgio.com/products/retro-back-cutout-mini-dress
+[2025-03-31T20:51:14.008Z] File saved for url: https://www.virgio.com/products/retro-back-cutout-mini-dress
+[2025-03-31T20:51:24.130Z] Crawling (Puppeteer): https://www.virgio.com/products/academic-edge-hit2-embroidered-distressed-wash-tee
+[2025-03-31T20:51:24.132Z] File saved for url: https://www.virgio.com/products/academic-edge-hit2-embroidered-distressed-wash-tee
+[2025-03-31T20:51:34.310Z] Crawling (Puppeteer): https://www.virgio.com/products/academic-edge-hit2-grey-overlap-knit-tee
+[2025-03-31T20:51:34.313Z] File saved for url: https://www.virgio.com/products/academic-edge-hit2-grey-overlap-knit-tee
+[2025-03-31T20:51:45.026Z] Crawling (Puppeteer): https://www.virgio.com/products/academic-edge-hit2-distressed-wash-embroidered-tee
+[2025-03-31T20:51:45.028Z] File saved for url: https://www.virgio.com/products/academic-edge-hit2-distressed-wash-embroidered-tee
+[2025-03-31T20:51:54.670Z] Crawling (Puppeteer): https://www.virgio.com/products/academic-edge-hit1-off-shoulder-sweatshirt
+[2025-03-31T20:51:54.677Z] File saved for url: https://www.virgio.com/products/academic-edge-hit1-off-shoulder-sweatshirt
+[2025-03-31T20:52:04.397Z] Crawling (Puppeteer): https://www.virgio.com/products/academic-edge-hit1-pink-pull-on-shorts
+[2025-03-31T20:52:04.400Z] File saved for url: https://www.virgio.com/products/academic-edge-hit1-pink-pull-on-shorts
+[2025-03-31T20:52:14.686Z] Crawling (Puppeteer): https://www.virgio.com/products/academic-edge-hit1-blue-pull-on-shorts
+[2025-03-31T20:52:14.691Z] File saved for url: https://www.virgio.com/products/academic-edge-hit1-blue-pull-on-shorts
+[2025-03-31T20:52:25.587Z] Crawling (Puppeteer): https://www.virgio.com/products/academic-edge-hit1-cropped-boxy-pink-hoodie
+[2025-03-31T20:52:25.590Z] File saved for url: https://www.virgio.com/products/academic-edge-hit1-cropped-boxy-pink-hoodie
+[2025-03-31T20:52:35.678Z] Crawling (Puppeteer): https://www.virgio.com/products/denim-daze-hit4-peplum-denim-cami-top
+[2025-03-31T20:52:35.680Z] File saved for url: https://www.virgio.com/products/denim-daze-hit4-peplum-denim-cami-top
+[2025-03-31T20:52:46.611Z] Crawling (Puppeteer): https://www.virgio.com/products/academic-edge-hit1-cropped-hoodie-shorts-co-ord
+[2025-03-31T20:52:46.615Z] File saved for url: https://www.virgio.com/products/academic-edge-hit1-cropped-hoodie-shorts-co-ord
+[2025-03-31T20:52:56.408Z] Crawling (Puppeteer): https://www.virgio.com/products/academic-edge-hit1-oversized-black-sweater-vest
+[2025-03-31T20:52:56.410Z] File saved for url: https://www.virgio.com/products/academic-edge-hit1-oversized-black-sweater-vest
+[2025-03-31T20:53:07.209Z] Crawling (Puppeteer): https://www.virgio.com/products/academic-edge-hit1-hoodie-shorts-co-ord-set
+[2025-03-31T20:53:07.212Z] File saved for url: https://www.virgio.com/products/academic-edge-hit1-hoodie-shorts-co-ord-set
+[2025-03-31T20:53:17.836Z] Crawling (Puppeteer): https://www.virgio.com/products/academic-edge-hit1-cropped-elasticated-hoodie
+[2025-03-31T20:53:17.839Z] File saved for url: https://www.virgio.com/products/academic-edge-hit1-cropped-elasticated-hoodie
+[2025-03-31T20:53:27.835Z] Crawling (Puppeteer): https://www.virgio.com/products/academic-edge-hit1-oversized-v-neck-sweater-vest
+[2025-03-31T20:53:27.837Z] File saved for url: https://www.virgio.com/products/academic-edge-hit1-oversized-v-neck-sweater-vest
+[2025-03-31T20:53:37.459Z] Crawling (Puppeteer): https://www.virgio.com/products/academic-edge-hit1-cropped-boxy-blue-hoodie
+[2025-03-31T20:53:37.462Z] File saved for url: https://www.virgio.com/products/academic-edge-hit1-cropped-boxy-blue-hoodie
+[2025-03-31T20:53:47.271Z] Crawling (Puppeteer): https://www.virgio.com/products/soft-romance-cupid-graphic-cutout-t-shirt
+[2025-03-31T20:53:47.274Z] File saved for url: https://www.virgio.com/products/soft-romance-cupid-graphic-cutout-t-shirt
+[2025-03-31T20:53:58.358Z] Crawling (Puppeteer): https://www.virgio.com/products/vintage-vogue-waist-cut-out-midi-dress
+[2025-03-31T20:53:58.360Z] File saved for url: https://www.virgio.com/products/vintage-vogue-waist-cut-out-midi-dress
+[2025-03-31T20:54:09.942Z] Crawling (Puppeteer): https://www.virgio.com/products/vintage-vogue-white-ruffled-collar-shirt
+[2025-03-31T20:54:09.945Z] File saved for url: https://www.virgio.com/products/vintage-vogue-white-ruffled-collar-shirt
+[2025-03-31T20:54:20.066Z] Crawling (Puppeteer): https://www.virgio.com/products/pantone-colour-blocked-flared-skirt
+[2025-03-31T20:54:20.069Z] File saved for url: https://www.virgio.com/products/pantone-colour-blocked-flared-skirt
+[2025-03-31T20:54:29.716Z] Crawling (Puppeteer): https://www.virgio.com/products/pantone-colour-blocked-layered-dress
+[2025-03-31T20:54:29.719Z] File saved for url: https://www.virgio.com/products/pantone-colour-blocked-layered-dress
+[2025-03-31T20:54:40.838Z] Crawling (Puppeteer): https://www.virgio.com/products/modern-muse-black-crochet-crop-top
+[2025-03-31T20:54:40.841Z] File saved for url: https://www.virgio.com/products/modern-muse-black-crochet-crop-top
